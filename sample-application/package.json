@@ -1,0 +1,14 @@
+{
+  "name": "key-value-store",
+  "version": "1.0.0",
+  "description": "sample application for noobs, to demonstrate deployments",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "github.com/ammaristotle",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
