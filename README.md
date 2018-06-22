@@ -12,4 +12,7 @@ Follow along to learn more!
 
 ## Table of Contents
 
-Volume 1 - The Heroku Deployment
+[Volume 1 - The Heroku Deployment](vol-1-heroku/README.md)
+* [Part 2 - Setting up a deployment](vol-1-heroku/part-2.md)
+* [Part 3 - Actually deploying](vol-1-heroku/part-3.md)
+* [Part 4 - Getting a domain](vol-1-heroku/part-4.md)
